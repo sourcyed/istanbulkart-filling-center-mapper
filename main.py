@@ -26,4 +26,4 @@ for fg in feature_groups:
 
 map.add_child(folium.LayerControl())
 
-map.save("Istanbulkart-Filling-Centers.html")
+map.save("index.html")
