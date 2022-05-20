@@ -8,12 +8,12 @@
 
 ### How to use the program
 
-  You can view the web map by opening the .html file provided in the repository.
+  You can view the web map online here: https://sourcyed.github.io/istanbulkart-filling-center-mapper/
+  You can run main.py to create a web map from the data.csv file.
+  You can run data_fixer.py to convert the data taken from Istanbul Metropolitan Municipality to a format that is understandable by Pandas.
 
 
 ### How to edit the code
-
-  There are two scripts in this project. One of them is the main script that creates the web map from the given data. The other one is made to convert the data taken from Istanbul Metropolitan Municipality to a format that is understandable by Pandas.
   
   If you want to edit the source code of the program you will need Python 3.x and the listed modules:
 
