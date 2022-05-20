@@ -8,8 +8,8 @@
 
 ### How to use the program
 
-  You can view the web map online here: https://sourcyed.github.io/istanbulkart-filling-center-mapper/
-  You can run main.py to create a web map from the data.csv file.
+  You can view the web map online here: https://sourcyed.github.io/istanbulkart-filling-center-mapper/  
+  You can run main.py to create a web map from the data.csv file.  
   You can run data_fixer.py to convert the data taken from Istanbul Metropolitan Municipality to a format that is understandable by Pandas.
 
 
